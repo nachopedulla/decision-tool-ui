@@ -1,0 +1,48 @@
+.adder {
+    position: relative;
+    width: 80%;
+    margin: auto;
+}
+
+.option-title {
+    display: flex;
+    font-size: .9rem;
+    font-weight: 600;
+    margin-bottom: 3px;
+}
+
+.add-button {
+    display: flex;
+    column-gap: 5px;
+    align-items: center;
+    justify-content: right;
+    margin-right: 2px;
+    font-weight: 600;
+    margin-top: 25px;
+}
+
+.add-button:disabled {
+    background-color: rgb(158, 158, 158);
+    color: black;
+}
+
+.result {
+    margin-top: 30px;
+}
+
+.option-result {
+    padding: 10px;
+    background-color: rgb(37, 133, 133);
+    color: white;
+    border-radius: 10px;
+}
+
+h5 {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.gif {
+    margin: 10px 0px;
+    width: 100%;
+}

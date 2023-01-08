@@ -1,0 +1,11 @@
+.option {
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    margin: auto;
+}
+
+.text-area {
+    height: 30px;
+}
+
