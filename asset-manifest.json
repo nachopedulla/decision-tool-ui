@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/decision-tool-ui/static/css/main.fb5a21e1.css",
+    "main.js": "/decision-tool-ui/static/js/main.418a827e.js",
+    "static/js/787.80504488.chunk.js": "/decision-tool-ui/static/js/787.80504488.chunk.js",
+    "static/media/giphy.gif": "/decision-tool-ui/static/media/giphy.ccdbf9e7b12536c37f36.gif",
+    "index.html": "/decision-tool-ui/index.html",
+    "main.fb5a21e1.css.map": "/decision-tool-ui/static/css/main.fb5a21e1.css.map",
+    "main.418a827e.js.map": "/decision-tool-ui/static/js/main.418a827e.js.map",
+    "787.80504488.chunk.js.map": "/decision-tool-ui/static/js/787.80504488.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb5a21e1.css",
+    "static/js/main.418a827e.js"
+  ]
+}
